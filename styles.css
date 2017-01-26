@@ -1,0 +1,21 @@
+body {
+    background-image: url("camo.jpg");
+    background-repeat: none;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    color: #e4cd0f;
+    font-size: 75px;
+}
+
+h3 {
+    margin-top: 40px;
+    text-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
+}
+
+input[type="button"] {
+    margin: 50px 0;
+}
