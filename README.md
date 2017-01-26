@@ -1,1 +1,3 @@
-# CS201R-TeamAssignment1
+# MASH
+
+This was a quick HTML/CSS/JS Team Assignment.
